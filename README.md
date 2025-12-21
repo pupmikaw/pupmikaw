@@ -14,5 +14,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=500&color=3f778d&multiline=true&repeat=false&width=400&height=99&lines=highly+inactive;sign+my+ata;i+adore+spoke+and+minutetech+gift+skin;w2i+c*h+enc!" alt="Typing SVG" /></a>
 
 <p align="center">
-  <a href=https://rentry.co/spokewasmika>rentry</a> ⠀⠀ <a href=https://pupmikaw.atabook.org>atabook</a> ⠀⠀ <a href=[https://colormytree.me/2025/01JE64K2961HVQ8J8DERVKDHHR](https://colormytree.me/2025/01KB9BBTH49K73HDS5M5P90EH8)>tree</a>
+  <a href=https://rentry.co/spokewasmika>rentry</a> ⠀⠀ <a href=https://pupmikaw.atabook.org>atabook</a> ⠀⠀ <a href=[https://colormytree.me/2025/01JE64K2961HVQ8J8DERVKDHHR](https://colormytree.me/2025/01KB9BBTH49K73HDS5M5P90EH8)>tree </a>
 </p>
