@@ -20,3 +20,19 @@
 <p align="center">
 
 $$\color{7bb2b6}{spokeishere }$$
+
+<img
+  src="https://github.com/user-attachments/assets/85df751b-27fa-494c-b047-27fe2854868a" 
+  width="400"
+  align="left"
+  />
+
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=500&color=3f778d&multiline=true&repeat=false&width=500&height=90&lines=thank+yu+da+finn+/+thomas+/+lala+for+da+codes!+^_^" alt="Typing SVG" /></a>
+
+<img
+  src="https://github.com/user-attachments/assets/2deb3b52-6e23-4081-8434-f640199cebed" 
+  width="400"
+  align="right"
+  />
