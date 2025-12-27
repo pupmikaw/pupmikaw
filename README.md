@@ -37,16 +37,3 @@ $$\color{7bb2b6}{spokeishere }$$
   align="right"
   />
 
-PHONK EDIT EXAMPLES 
-
-
-https://github.com/user-attachments/assets/88ba2123-4a58-44e7-9725-ed8829a6ca4d
-
-
-
-
-https://github.com/user-attachments/assets/6ec8de74-109c-4d22-a164-50f5a5dc0aea
-
-
-
-
