@@ -4,8 +4,8 @@
 
   <img
   src="https://github.com/user-attachments/assets/34982d05-584a-4101-9fe3-cfda9fa92638"
-  width="540"
-  align="right"
+  width="600"
+  align="center"
   />
   
 <div align="center">
