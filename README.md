@@ -13,7 +13,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=500&color=323795&multiline=true&repeat=false&width=400&height=99&lines=highly+inactive;sign+my+ata;i+adore+mashed+banana+ok?+ok!;w2i+c*h+enc!" alt="Typing SVG" /></a>
 
 <p align="center">
-  <a href=>rentry wip</a> ⠀⠀ <a href=https://pupmikaw.atabook.org>atabook</a> ⠀⠀ <a href=>straw wip</a>
+   ⠀⠀ <a href=https://pupmikaw.atabook.org>atabook</a> ⠀⠀ 
 </p>
 
 <p align="center">
