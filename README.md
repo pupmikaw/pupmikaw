@@ -15,9 +15,8 @@
   align="center"
   /p>
 
-<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fabrik+Code&size=13&duration=1500&pause=100&color=916246&multiline=true&repeat=false&width=400&height=99&lines=He+says;we+should+have+;girls+at+Welton" alt="Typing SVG" /></a>
-</p>
+
   
   <p align="center">
    ⠀⠀ <a href=https://pupmikaw.atabook.org>atabook</a> <a href=https://rentry.co/bnuuyka >rentry</a>
