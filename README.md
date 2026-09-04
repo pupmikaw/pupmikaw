@@ -10,7 +10,9 @@
   <p align="center">
    <a href=https://pupmikaw.atabook.org>atabook</a> 𐂯 <a href=https://rentry.co/bnuuyro >rentry</a> 𐂯 <a href=https://en.pronouns.page/@pupmikaw >prnspge</a>
 </p>
+
 <p align="center">
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=7rno1c0aurfj6ljskmm0iviqy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=7rno1c0aurfj6ljskmm0iviqy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=7rno1c0aurfj6ljskmm0iviqy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false">
   </a>
 </p>
