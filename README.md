@@ -12,6 +12,6 @@
 </p>
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ujgbjuguoogupx2mu6o3rjvk5y&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ujgbjuguoogupx2mu6o3rjvk5y&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=7rno1c0aurfj6ljskmm0iviqy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
   </a>
 </p>
