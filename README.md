@@ -1,10 +1,10 @@
 
-<p align="center"> <img alt=c635a734 src="https://komarev.com/ghpvc/?username=pupmikaw&label=seb's&color=183d8a ">
+<p align="center"> <img alt=c635a734 src="https://komarev.com/ghpvc/?username=pupmikaw&label=summer&color=183d8a ">
 </p>
   
 <p align="center"> <img src="https://github.com/user-attachments/assets/41e860cd-2f87-4f2d-b223-186f358714f0"
-  width="500"
-  align="center"
+  width="100"
+  align="LEFT"
   </p>
 
 
