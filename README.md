@@ -14,4 +14,4 @@
 
 
 <p align="center">
- <a href=https://github.com/THE-TEMPIST>tempist's JamatoP</a>
+ <a href=https://github.com/THE-TEMPIST>tempest's JamatoP</a>
