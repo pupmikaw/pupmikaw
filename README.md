@@ -12,3 +12,6 @@
    <a href=https://pupmikaw.atabook.org>atabook</a> 𐂯 <a href=https://rentry.co/bnuuyro >rentry</a> 𐂯 <a href=https://en.pronouns.page/@pupmikaw >prnspge</a>
 </p>
 
+
+<p align="center">
+ <a href=https://github.com/THE-TEMPIST>tempist's JamatoP</a>
